@@ -1,0 +1,8 @@
+.NavBar, .NavBar li {
+    list-style: none;
+}
+
+.NavBar li {
+    display: inline;
+    margin-right: 10px;
+}
