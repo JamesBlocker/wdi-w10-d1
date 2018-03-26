@@ -1,0 +1,19 @@
+h1 {
+    color: dodgerblue;
+}
+
+img {
+    float: left;
+}
+
+.SinglePost {
+    margin: 20px 20px 0 20px;;  
+    border: 5px solid #333;
+    overflow: auto;
+    border-radius: 15%;
+}
+
+.textyStuff {
+    display: inline-block;
+    margin-left: 20px;
+}
